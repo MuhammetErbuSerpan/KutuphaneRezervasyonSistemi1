@@ -24,4 +24,4 @@ Hazır koleksiyonlar kullanılmamıştır.
 Uygulama açıldıktan sonra **Örnek Veri Yükle** butonuna basılmalıdır.
 
 ## Ekran Görüntüsü
-![Arayüz](screenshots/arayuz.png)
+![Arayüz](arayuz.png)
